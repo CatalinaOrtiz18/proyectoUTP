@@ -7,7 +7,7 @@ En este proyecto se pretende dar solucion a la necesidad de adquirir productos d
 
 ## Integrantes
 - > Nancy Helena Alzate Cardona
-- > Katalina Ortiz
+- > Catalina Ortiz Murillo
 - > Alejandro Rafael Padron Vergara
 - > Jefferson Stiven Rodriguez Muñoz
 - > Andres Esteban Pianda Labrada
